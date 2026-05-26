@@ -16,7 +16,7 @@
 |ch.07|Directed Acyclic Graph|Directed Acyclic Graph, Topological Sort|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/07-DAG%20and%20Topological%20Sort.pdf)|[이명준](https://github.com/eooiea)|
 |ch.08|Tree & Priority Queue|Tree(Graph Theory), Priority Queue|[PDF](https://github.com/yim2ul2et/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/06-graph.pdf)|[하승민](https://github.com/ccy0111)|
 |ch.09|Minimum Spanning Tree|Union Find, Minimum Spanning Tree, Kruskal, Prim|[PDF](https://github.com/yim2ul2et/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/09-Minimum%20Spanning%20Tree.pdf)|[김인환](https://github.com/100050)|
-|ch.10|Shortest Path Algorithm|Dijkstra, Bellman Ford, Floyd Warshall|||
+|ch.10|Shortest Path Algorithm|Dijkstra, Bellman Ford, Floyd Warshall|[PDF](https://github.com/yim2ul2et/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/10-Shortest%20Path.pdf)|[하승민](https://github.com/ccy0111)|
 |app.01|Math for PS|Modulor, GCD, LCM, Eratos Sieve, Primality Test, <br> Permutation, Combination|||
 |app.02|C++ for PS|class, namespace, STL(iostream, containers), <br> range-based for loops, reference, <bits/stdc++.h>|[PDF](https://github.com/YIM2UL2ET/PKNU_Algorithm_Study/blob/main/2026-spring-basic/slide/12-Cpp_for_PS.pdf)|[임승호](https://github.com/YIM2UL2ET)|
 
